@@ -1,6 +1,4 @@
 import useSWR from 'swr'
-import Header from './components/header'
-import Styles from '../styles/home.module.css'
 import Content from './components/content'
 
 export default function Home() {
